@@ -58,13 +58,7 @@ Package :
 
 What is a package??
 
-Package is a container, which is used to group together diffent classes that belong to general area, which would be like a name space.
-
-Now, what is a namespace?
-
-Namespace is the organised way of the symbols, names or any methods.
-
-Same word, same name, same method, same class can be used at two different contexts , but they couldbe differentiated based on their name space.
+Package is a container, which is used to group together diffent classes that belong to general area.
 
 
 
