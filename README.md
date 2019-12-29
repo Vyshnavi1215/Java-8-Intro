@@ -58,7 +58,7 @@ Package :
 
 What is a package??
 
-Package is a container.
+Package is a container, which is used to group together diffent classes that belong to general area, which would be like a name space.
 
 Now, what is a namespace?
 
