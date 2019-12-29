@@ -12,13 +12,18 @@ So, the properties would be defined as variables and the functionalities would b
 
 Class is the natural home of data and the methods.
 
-Example : class Car{
-type variable 1; //variables, type :type defines the datatype of value(Data type : defines that which type of data that the variable can hold like interger, string)
-type variable2;
+Example : 
+class Car{
 
+type variable 1; //variables, type :type defines the datatype of value(Datatype : defines which type of data that the variable can hold like interger, string)
+type variable2;//variables
+
+method1(){
+
+//code to written
 
 }
-
+{
 
 Variables : Variables are the identifiers and they store the data.
 
