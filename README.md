@@ -12,8 +12,10 @@ So, the properties would be defined as variables and the functionalities would b
 
 Class is the natural home of data and the methods.
 
+Class is declared by using keyword 'class'.
+
 Example : 
-class Car{
+class className{
 
 type variable 1; //variables, type :type defines the datatype of value(Datatype : defines which type of data that the variable can hold like interger, string)
 type variable2;//variables
@@ -31,7 +33,43 @@ Methods : code to perform the particular task.
 
 How to create an object for a class :
 
-What is an object??
+First..What is an object??
 
-An object is an instance of the class.
+An object is an instance of the class, an oblect has physical reality(object occupies space).
 
+Objects are created in two steps :
+
+1.Declare the variable of the class type.
+2.Allocate the memory of that particular class object.
+
+
+Considet the class named Car, object of car can be created as follows.
+
+1.1 Car car;
+2.1 car = new Car();
+
+In the line 1.1 car value would be null, in second line we are actually allocating the reference to the object to refer.
+
+new keyword :
+
+new operator allocates the memery dynamically at run time for the object.
+
+Package :
+
+What is a package??
+
+Package is a container.
+
+Now, what is a namespace?
+
+Namespace is the organised way of the symbols, names or any methods.
+
+Same word, same name, same method, same class can be used at two different contexts , but they couldbe differentiated based on their name space.
+
+
+
+
+
+
+
+'
